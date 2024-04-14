@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker vs Podman/Podman.md",
+                "file": "Terraform/Terraform vs Ansible.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker vs Podman/Podman.md",
+                "file": "Terraform/Terraform vs Ansible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker vs Podman/Podman.md",
+                "file": "Terraform/Terraform vs Ansible.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker vs Podman/Podman.md"
+                "file": "Terraform/Terraform vs Ansible.md"
               }
             }
           }
@@ -161,8 +161,11 @@
   },
   "active": "4dedf8c0c87e4afd",
   "lastOpenFiles": [
-    "Docker vs Podman/OCI.md",
+    "Terraform/IaC.md",
+    "Terraform/Terraform vs Ansible.md",
     "Docker vs Podman/Podman.md",
+    "Terraform",
+    "Docker vs Podman/OCI.md",
     "Docker vs Podman",
     "README.md"
   ]

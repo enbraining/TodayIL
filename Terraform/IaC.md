@@ -1,0 +1,1 @@
+IaC(Infrastructure as Code)는 코드로 인프라를 설명한다는 의미로 코드로 인프라를 관리한다.
