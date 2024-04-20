@@ -161,6 +161,9 @@
   },
   "active": "4dedf8c0c87e4afd",
   "lastOpenFiles": [
+    "Data",
+    "AWS/WAF.md",
+    "AWS",
     "Terraform/IaC.md",
     "Terraform/Terraform vs Ansible.md",
     "Docker vs Podman/Podman.md",
