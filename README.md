@@ -1,6 +1,6 @@
 # TodayIL
 
-[Database](./Database)
-[AWS](./AWS)
-[Container](./Container)
-[IaC](./IaC)
+[Database](./Database/)
+[AWS](./AWS/)
+[Container](./Container/)
+[IaC](./IaC/)
