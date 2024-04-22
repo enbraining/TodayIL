@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/http.md",
+                "file": "MessageBroker/introduce.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/http.md",
+                "file": "MessageBroker/introduce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/http.md",
+                "file": "MessageBroker/introduce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/http.md"
+                "file": "MessageBroker/introduce.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "8a647d6db3de5aad",
   "lastOpenFiles": [
-    "README.md",
     "Network/http.md",
+    "MessageBroker/introduce.md",
+    "IaC/Terraform vs Ansible.md",
+    "MessageBroker",
+    "README.md",
     "Network",
     "Database/Temporary-table.md",
     "Database",
@@ -165,7 +168,6 @@
     "Terraform/Terraform vs Ansible.md",
     "Docker vs Podman/Podman.md",
     "Terraform",
-    "Docker vs Podman/OCI.md",
-    "Docker vs Podman"
+    "Docker vs Podman/OCI.md"
   ]
 }
