@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Network/http.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Network/http.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Network/http.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Network/http.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "8a647d6db3de5aad",
   "lastOpenFiles": [
+    "README.md",
     "Network/http.md",
     "Network",
     "Database/Temporary-table.md",
@@ -165,7 +166,6 @@
     "Docker vs Podman/Podman.md",
     "Terraform",
     "Docker vs Podman/OCI.md",
-    "Docker vs Podman",
-    "README.md"
+    "Docker vs Podman"
   ]
 }
