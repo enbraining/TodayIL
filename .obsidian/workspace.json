@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4dedf8c0c87e4afd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terraform/Terraform vs Ansible.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terraform/Terraform vs Ansible.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terraform/Terraform vs Ansible.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terraform/Terraform vs Ansible.md"
+                "file": "README.md"
               }
             }
           }
@@ -159,8 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4dedf8c0c87e4afd",
+  "active": "8a647d6db3de5aad",
   "lastOpenFiles": [
+    "ATmega128/my_led_bit_center.c",
+    "ATmega128/led_bit_center.c",
+    "ATmega128",
+    "C",
+    "Database",
+    "데베.md",
     "Data",
     "AWS/WAF.md",
     "AWS",
