@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "77947395ab9fe87b",
+    "id": "a3ae4238f68ccec4",
     "type": "split",
     "children": [
       {
-        "id": "213230d462581219",
+        "id": "2a7a51cb21f0ffd8",
         "type": "tabs",
         "children": [
           {
-            "id": "8a647d6db3de5aad",
+            "id": "4fede74907d8d6ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MessageBroker/introduce.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b72b431bfaea0cc8",
+    "id": "baa007839cc0c834",
     "type": "split",
     "children": [
       {
-        "id": "90f6b3903dc2e6ef",
+        "id": "3bd49ae25406c0d4",
         "type": "tabs",
         "children": [
           {
-            "id": "f0e87a7673eefad5",
+            "id": "b567c0553980ef4d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "6699f0627a2841d8",
+            "id": "8a2a462d0f5d809f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "5ef8b6dc2050e754",
+            "id": "36785e223a2446be",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "64e8dc7baad70967",
+    "id": "2479530c81a328cc",
     "type": "split",
     "children": [
       {
-        "id": "777a4fd198292a80",
+        "id": "609dccda64fda077",
         "type": "tabs",
         "children": [
           {
-            "id": "0a641045485838fd",
+            "id": "f39dc76b0fde6858",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MessageBroker/introduce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "b5149b48005b309f",
+            "id": "467a5300b1fa62e0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MessageBroker/introduce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d6b35c7f3643c1ca",
+            "id": "164323d24b1b3a72",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "370c959fa7441b81",
+            "id": "42c410566cf14f53",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MessageBroker/introduce.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,28 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a647d6db3de5aad",
-  "lastOpenFiles": [
-    "Network/http.md",
-    "MessageBroker/introduce.md",
-    "IaC/Terraform vs Ansible.md",
-    "MessageBroker",
-    "README.md",
-    "Network",
-    "Database/Temporary-table.md",
-    "Database",
-    "ATmega128/my_led_bit_center.c",
-    "ATmega128/led_bit_center.c",
-    "ATmega128",
-    "C",
-    "데베.md",
-    "Data",
-    "AWS/WAF.md",
-    "AWS",
-    "Terraform/IaC.md",
-    "Terraform/Terraform vs Ansible.md",
-    "Docker vs Podman/Podman.md",
-    "Terraform",
-    "Docker vs Podman/OCI.md"
-  ]
+  "active": "4fede74907d8d6ad",
+  "lastOpenFiles": []
 }
