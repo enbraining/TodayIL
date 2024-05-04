@@ -1,0 +1,3 @@
+- `k6 new`: 자바스크립트 파일 생성
+- `k6 run script.js`: script.js 실행하기
+- `k6 run --vus 10 --duration 30s script.js`: 가상 유저의 개수와 시간을 설정해서 script.js 실행하기
