@@ -8,11 +8,6 @@ export default function () {
     socket.on('open', function open() {
       console.log('connected');
       socket.send(`{"message":"hello"}`);
-      socket.send(`{"message":"hello"}`);
-      socket.send(`{"message":"hello"}`);
-      socket.send(`{"message":"hello"}`);
-      socket.send(`{"message":"hello"}`);
-    
 
       socket.setInterval(function timeout() {
         socket.ping();
