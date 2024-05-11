@@ -69,7 +69,7 @@ public class Test: MonoBehaviour
 }
 ```
 
-# 좌표
+# 좌표 받아오기
 
 ```cs
 public class NewBehaviourScript : MonoBehaviour
@@ -79,8 +79,21 @@ public class NewBehaviourScript : MonoBehaviour
         // 스페이스 키를 누르고 있는 동안
         if (Input.GetButton("Jump"))
         {
-            // GetAxis
             Debug.Log("Jump " + Input.GetAxis("Jump")); 
+        }
+
+        // 횡 이동, 이동 키를 누르고 있는 동안
+        if (Input.GetButton("Horizontal"))
+        {
+            Debug.Log("Where " + Input.GetAxis("Horizontal")); // float
+            Debug.Log("Where RAW " + Input.GetAxisRaw("Horizontal")); // 왼 -1 오 1 
+        }
+        
+        // 축 이동, 이동 키를 누르고 있는 동안
+        if (Input.GetButton("Vertical"))
+        {
+            Debug.Log("Where " + Input.GetAxis("Vertical")); // float
+            Debug.Log("Where RAW " + Input.GetAxisRaw("Vertical")); // 위 1 아래 -1 
         }
     }
 }
