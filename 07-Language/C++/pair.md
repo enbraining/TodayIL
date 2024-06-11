@@ -2,7 +2,7 @@
 
 utility 라이브러리에 있으며 algorithm | vector 라이브러리는 utility 라이브러리를 포함하고 있음.
 
-```cs
+```cpp
 #include <algorithm>
 
 int main(){
